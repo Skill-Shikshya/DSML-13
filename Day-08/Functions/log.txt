@@ -1,0 +1,2 @@
+This is first log. 
+This is second log.
