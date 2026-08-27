@@ -1,0 +1,86 @@
+[
+  {
+    "id": 101,
+    "name": "Alice Johnson",
+    "is_active": true,
+    "roles": ["admin", "editor"],
+    "premium_since": null
+  },
+  {
+    "id": 102,
+    "name": "Bob Smith",
+    "is_active": true,
+    "roles": ["viewer"],
+    "premium_since": "2024-03-15"
+  },
+  {
+    "id": 103,
+    "name": "Carlos Mendez",
+    "is_active": false,
+    "roles": ["editor"],
+    "premium_since": null
+  },
+  {
+    "id": 104,
+    "name": "Diana Prince",
+    "is_active": true,
+    "roles": ["admin", "billing_manager"],
+    "premium_since": "2023-11-01"
+  },
+  {
+    "id": 105,
+    "name": "Evan Wright",
+    "is_active": true,
+    "roles": ["viewer", "contributor"],
+    "premium_since": "2025-01-10"
+  },
+  {
+    "id": 106,
+    "name": "Fiona Gallagher",
+    "is_active": false,
+    "roles": ["viewer"],
+    "premium_since": null
+  },
+  {
+    "id": 107,
+    "name": "George Chen",
+    "is_active": true,
+    "roles": ["editor", "moderator"],
+    "premium_since": "2024-08-22"
+  },
+  {
+    "id": 108,
+    "name": "Hannah Abbott",
+    "is_active": true,
+    "roles": ["contributor"],
+    "premium_since": null
+  },
+  {
+    "id": 109,
+    "name": "Ian Malcolm",
+    "is_active": true,
+    "roles": ["admin"],
+    "premium_since": "2022-06-30"
+  },
+  {
+    "id": 110,
+    "name": "Julia Roberts",
+    "is_active": false,
+    "roles": ["viewer"],
+    "premium_since": "2023-04-12"
+  },
+  {
+    "id": 111,
+    "name": "Kevin Bacon",
+    "is_active": true,
+    "roles": ["editor", "reviewer"],
+    "premium_since": "2025-05-18"
+  },
+  {
+    "id": 112,
+    "name": "Luna Lovegood",
+    "is_active": true,
+    "roles": ["viewer", "subscriber"],
+    "premium_since": null
+  }
+]
